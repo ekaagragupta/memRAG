@@ -289,8 +289,5 @@ loyalty, and support, with Ron providing steadfast companionship and humor, and
 Hermione contributing her intelligence and resourcefulness...
 ```
 
----
 
-## License
 
-See `MANIFEST.in` and project root for license details.
