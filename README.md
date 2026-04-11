@@ -141,7 +141,7 @@ The cached memory is saved as:
 save_dir/
 ├── memory.bin     # PyTorch KV-cache + prompts + language metadata
 ├── index.bin      # FAISS dense retrieval index
-└── chunks.json    # Raw text chunks for retrieval
+└── chunks.json    # Raw text chunks for retrieval of data 
 ```
 
 Memory file sizes:
