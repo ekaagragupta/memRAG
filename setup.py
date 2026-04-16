@@ -12,14 +12,13 @@ setup(
     description="A Python package for memory-augmented retrieval-augmented generation",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Tommy Chien",
-    author_email="tommy@chien.io",
+    author="Ekaagra Gupta "
+    author_email="ekaagrag2006@gmail.com",
     packages=find_packages(),
     install_requires=requirements,
     classifiers=[
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
-        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.10",
